@@ -1,2 +1,2 @@
 # docker-java-gce
-Java container with GCE SDK
+Java container with gce
